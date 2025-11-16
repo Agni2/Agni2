@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agniva Chatterjee, 3rd year Undergrad(Electronics and Communication Engineering Student)
-- 👀 I’m interested in Python and Data Science
+- 👀 I’m interested in Python, Machine Learning
 - 🌱 I’m currently learning Python, SQL
 - 📫 You can reach me through Linkdln https://www.linkedin.com/in/agniva-chatterjee-22371a287/
 
