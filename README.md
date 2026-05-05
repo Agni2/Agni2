@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agniva Chatterjee, 3rd year Undergrad(Electronics and Communication Engineering Student)
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning Python, SQL, RF, Microwave, Metasurfaces
 - 📫 You can reach me through Linkdln https://www.linkedin.com/in/agniva-chatterjee-22371a287/
 
 <!---
