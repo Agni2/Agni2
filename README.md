@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Agniva Chatterjee, 3rd year Undergrad(Electronics and Communication Engineering)
-- 🌱 I’m currently learning Python, SQL, RF, Microwave, Metasurfaces
+- 🌱 I’m currently learning Python, SQL, RF Microwave & Metasurfaces using Ansys Hfss and ADS software
 - 📫 You can reach me through Linkdln https://www.linkedin.com/in/agniva-chatterjee-22371a287/
 
 <!---
